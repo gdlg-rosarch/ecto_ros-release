@@ -97,5 +97,5 @@ tracks:
     release_tag: :{version}
     ros_distro: jade
     vcs_type: git
-    vcs_uri: https://github.com/plasmodic/ecto.git
+    vcs_uri: https://github.com/plasmodic/ecto_ros.git
     version: :{auto}
