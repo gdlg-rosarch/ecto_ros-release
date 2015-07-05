@@ -1,3 +1,24 @@
+## ecto_ros (indigo) - 0.4.7-0
+
+The packages in the `ecto_ros` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --track indigo --rosdistro indigo ecto_ros` on `Sun, 05 Jul 2015 16:07:12 -0000`
+
+The `ecto_ros` package was released.
+
+Version of package(s) in repository `ecto_ros`:
+- upstream repository: /home/vrabaud/workspace/recognition_kitchen/src/ecto_ros
+- release repository: https://github.com/ros-gbp/ecto_ros-release.git
+- rosdistro version: `0.4.6-0`
+- old version: `0.4.6-0`
+- new version: `0.4.7-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.8`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.36`
+
+
 ## ecto_ros (jade) - 0.4.6-0
 
 The packages in the `ecto_ros` repository were released into the `jade` distro by running `/usr/bin/bloom-release ecto_ros -t jade --ros-distro jade` on `Sat, 07 Feb 2015 09:36:49 -0000`
