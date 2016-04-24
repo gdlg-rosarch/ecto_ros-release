@@ -1,3 +1,26 @@
+## ecto_ros (kinetic) - 0.4.8-0
+
+The packages in the `ecto_ros` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --track kinetic --rosdistro kinetic ecto_ros` on `Sun, 24 Apr 2016 10:12:16 -0000`
+
+The `ecto_ros` package was released.
+
+Version of package(s) in repository `ecto_ros`:
+
+- upstream repository: https://github.com/plasmodic/ecto_ros.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.4.8-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## ecto_ros (jade) - 0.4.8-0
 
 The packages in the `ecto_ros` repository were released into the `jade` distro by running `/usr/bin/bloom-release --track jade --rosdistro jade ecto_ros` on `Sun, 29 Nov 2015 23:12:50 -0000`
